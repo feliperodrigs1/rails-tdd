@@ -1,0 +1,7 @@
+foo:
+  name: Foo
+  email: foo@email.com
+
+bar:
+  name: Bar
+  email: bar@email.com
